@@ -3,3 +3,6 @@ for k in range(5):
 
 for k in range(1, 20001):
   print(k)
+
+for k in range(1, 15, 4):
+  print(k)
