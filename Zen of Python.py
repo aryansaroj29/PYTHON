@@ -1,3 +1,6 @@
+import this
+
+
 Explicit is better than implicit.
 Simple is better than complex.
 Complex is better than complicated.
