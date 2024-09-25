@@ -13,4 +13,5 @@ txt = f"For only {price:.2f} dollar!"
 print(txt)
 # print(txt.fromat())
 
+print(f"{2*30}")
 print(type( f"{2*30}"))
